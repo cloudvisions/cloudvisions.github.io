@@ -2,8 +2,8 @@
 
 |아이디|직업|레벨|훈장|
 |------|---|---|---|
-|Joy.Joo|마법사|27|![image](https://user-images.githubusercontent.com/72858711/188545682-4cd2d51e-4d7c-4c15-afa4-8c02cbb61432.png)|
-|LOVE.LEE|스파크 소서리스|28|![image](https://user-images.githubusercontent.com/72858711/188545646-c847cff7-3846-4e37-b584-5d6c4d98090b.png)|
+|Joy.Joo|마법사|28|![image](https://user-images.githubusercontent.com/72858711/188640817-a4488d4f-19f0-495d-9aa4-bf5ff9552974.png)|
+|LOVE.LEE|스파크 소서리스|30|![image](https://user-images.githubusercontent.com/72858711/188640729-620c3474-4c6f-42ee-bce4-7e2d61c1477b.png)|
 
 
 5개의 파
