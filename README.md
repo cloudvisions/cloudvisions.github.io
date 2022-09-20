@@ -1,4 +1,4 @@
-# Miraculous World Q.E.D 1.5ver
+# Miraculous World Q.E.D 1.5v
 
 |아이디|직업|레벨|훈장|
 |------|---|---|---|
