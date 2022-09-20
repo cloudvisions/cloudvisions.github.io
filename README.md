@@ -1,4 +1,4 @@
-# Wizard Evorp Foundation
+# Miraculous World Q.E.D 1.5ver
 
 |아이디|직업|레벨|훈장|
 |------|---|---|---|
