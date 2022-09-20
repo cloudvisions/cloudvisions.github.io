@@ -2,8 +2,11 @@
 
 |아이디|직업|레벨|훈장|
 |------|---|---|---|
-|Joy.Joo|마법사(2차)|30|![image](https://user-images.githubusercontent.com/72858711/188878162-92df4c56-3387-48c5-803e-69ba511d893d.png)|
-|LOVE.LEE|라이트닝 소서리스(2차)|30|![image](https://user-images.githubusercontent.com/72858711/188878191-91bc8216-cece-4e62-a6f5-cbe05948ffe7.png)|
+|Joy.Joo|마법사(2차)|32|![image](https://user-images.githubusercontent.com/72858711/191240354-ee323652-6f13-4d3e-81d6-de73f8020878.png)|
+|LOVE.LEE|라이트닝 소서리스(2차)|33|![image](https://user-images.githubusercontent.com/72858711/191240405-9c939f2a-7bf8-4449-b95c-4fca04dc416f.png)|
+|MANGO|마법사(1차)|8|![image](https://user-images.githubusercontent.com/72858711/191240779-12f2f0bb-20ae-413d-b99f-588fbd81df85.png)|
+|HONG-IK|마법사(1차)|8|![image](https://user-images.githubusercontent.com/72858711/191240787-e7491a62-b884-4255-8c4d-26b61890c6eb.png)|
+|LEECO|마법사(1차)|8|![image](https://user-images.githubusercontent.com/72858711/191240791-1b34eb34-cb7e-4eeb-9597-e3fa169b6866.png)|
 
 
 5개의 파
