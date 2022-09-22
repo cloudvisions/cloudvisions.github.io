@@ -4,7 +4,7 @@
 |------|---|---|---|
 |Joy.Joo|마법사(2차)|32|![image](https://user-images.githubusercontent.com/72858711/191240354-ee323652-6f13-4d3e-81d6-de73f8020878.png)|
 |LOVE.LEE|라이트닝 소서리스(2차)|33|![image](https://user-images.githubusercontent.com/72858711/191240405-9c939f2a-7bf8-4449-b95c-4fca04dc416f.png)|
-|MANGO|소서리스(1차)|10|![image](https://user-images.githubusercontent.com/72858711/191240779-12f2f0bb-20ae-413d-b99f-588fbd81df85.png)|
+|MANGO|소서리스(1차)|10|![image](https://user-images.githubusercontent.com/72858711/191735001-cedafc7d-403d-4edf-bdd7-537aeeb70b23.png)|
 
 
 5개의 파
